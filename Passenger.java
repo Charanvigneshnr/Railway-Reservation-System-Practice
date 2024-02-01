@@ -1,4 +1,4 @@
-package Charan.RailwayReservationSystem;
+package Charan.Practice.RailwayReservationSystem;
 
 public class Passenger {
     private final int id;

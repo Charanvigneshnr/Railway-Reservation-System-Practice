@@ -1,4 +1,4 @@
-package Charan.RailwayReservationSystem;
+package Charan.Practice.RailwayReservationSystem;
 
 import java.util.Scanner;
 
